@@ -12,7 +12,7 @@ const App = () => {
   return (
     <>
     <div  >
-    {/* <div className="box3"> <spna><a href="http://localhost:3000/">Home</a></spna></div> */}
+    {/* <div className="box3"> <spna><a href="https://github.com/webtechHarsh/Kamla-Prashikshan-Sansthaan/edit/main/src/App.js">Home</a></spna></div> */}
       <ClzName />
       
 <div className="center" >
