@@ -11,6 +11,7 @@ const App = () => {
 
   return (
     <>
+    <div  >
     {/* <div className="box3"> <spna><a href="http://localhost:3000/">Home</a></spna></div> */}
       <ClzName />
       
@@ -21,7 +22,7 @@ const App = () => {
    <ClzContext />
     
       </div>
-      
+      </div>
   </>
      
     
