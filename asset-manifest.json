@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kamla-Prashikshan-Sansthaan/static/css/main.ec56ef38.chunk.css",
+    "main.js": "/Kamla-Prashikshan-Sansthaan/static/js/main.44ea4a17.chunk.js",
+    "main.js.map": "/Kamla-Prashikshan-Sansthaan/static/js/main.44ea4a17.chunk.js.map",
+    "runtime-main.js": "/Kamla-Prashikshan-Sansthaan/static/js/runtime-main.86c1559e.js",
+    "runtime-main.js.map": "/Kamla-Prashikshan-Sansthaan/static/js/runtime-main.86c1559e.js.map",
+    "static/js/2.b8c622d3.chunk.js": "/Kamla-Prashikshan-Sansthaan/static/js/2.b8c622d3.chunk.js",
+    "static/js/2.b8c622d3.chunk.js.map": "/Kamla-Prashikshan-Sansthaan/static/js/2.b8c622d3.chunk.js.map",
+    "index.html": "/Kamla-Prashikshan-Sansthaan/index.html",
+    "static/css/main.ec56ef38.chunk.css.map": "/Kamla-Prashikshan-Sansthaan/static/css/main.ec56ef38.chunk.css.map",
+    "static/js/2.b8c622d3.chunk.js.LICENSE.txt": "/Kamla-Prashikshan-Sansthaan/static/js/2.b8c622d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86c1559e.js",
+    "static/js/2.b8c622d3.chunk.js",
+    "static/css/main.ec56ef38.chunk.css",
+    "static/js/main.44ea4a17.chunk.js"
+  ]
+}
